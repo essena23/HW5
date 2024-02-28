@@ -88,7 +88,7 @@ int deliveryDistance = 100;
                 System.out.println("Осень");
                 break;
             default:
-                System.out.println("Такого месяца не существует");
+                System.out.println("Такого месяца не существует!");
         }
 
 }
